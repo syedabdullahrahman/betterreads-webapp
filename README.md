@@ -12,6 +12,11 @@ For seaching that adds a lot more complexity. So, let's depend on Open Library A
 7. Pre-Load the Large data set from Open Library Website (Load data on a scheduled manner to keep up-to-date the DB with latest data)
 8. Stateless application so that multiple instance can run
 
+# ER Diagram
+![ER Diagram](ER-diagram.png)
+
+
+
 Prerequisites:
 1. JDK and IDE installed on your machine
 2. Register for a free hosted Cassandra instance: https://dtsx.io/2WQoLWk. You get a a DataStax Astra DB account with a generous free tier that you can use to follow along the code.
